@@ -1,37 +1,14 @@
-<div align="center">
-<h1 align="center">Oh, So Simple HTML CV!</h1>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:faresmeti@gmail.com)](mailto:nimanamvar@aol.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nimanamvar/)
 
-<img alt="Simple HTML CV" src="https://github.com/ritaly/HTML-CSS-CV-demo/blob/master/img/resume_icon.png" />
 
-HTML and CSS template for your outstanding job applications
-</div>
+I a Data Scientst 
+- 🌱 I’m currently learning some advanced machine learning; 
+- 💬 How to reach me: you can email me at nimanamvar@gmail.com;
+- 📝[Resume]()
 
-## What is Oh, So Simple HTML CV?
 
-**Oh, So Clear HTML CV!** is simple, clear and aesthetic **Resume** template for beginners to better understand HTML5 and CSS basics by example.
-
-**This page will help you:**
-
-* create legible *CV (Curriculum Vitae)* / *Resume*
-* create website with HTML5 and CSS
-* create CSS flexbox layout
-* implement good-looking responsive layouts
-* use Font Awesome 5 for social media
-
-This repo contains the final source code for free tutorial.
-
-Full explanation and task you can find in Polish: [CV HTML / CSS](https://www.flynerd.pl/2018/07/stworz-cv-w-html-i-css-krok-po-kroku.html)
-
-## Demo
-Check demo here: [Ocat CV](https://ritaly.github.io/HTML-CSS-CV-demo/)
-
-## Credits
-Please feel free to copy any part of this repo for your own uses.
-
-**[Fly Nerd](https://www.flynerd.pl/)** - I will be happy if you mention **FlyNerd** as an inspiration.
-
-Thanks:
-
-- **Raleway** - set of free fonts thanks to Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida, Igino Marini
-
-- **Freepik** - title icon made by [Freepick](http://www.freepik.com), licensed: CC 3.0
+<p float="left">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api?username=faresinside&show_icons=true&theme=onedark&show_icons=true&count_private=true" width="470" height="200">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=faresinside&layout=compact&hide_border=true&hide=jupyter%20notebook&langs_count=9&theme=onedark" width="320" height="200">
+</p>
