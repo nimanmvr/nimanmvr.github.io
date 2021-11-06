@@ -3,5 +3,6 @@
         "enineering",
         "newset",
         "sciecne"
-    ]
+    ],
+    "git.ignoreLimitWarning": true
 }
