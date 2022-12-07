@@ -49,7 +49,7 @@
   </header>
   <main>
     <section>
-      <h3 css="color:blue">Courses (Not accurate)!!!</h3>
+      <h3 css="color:blue">Courses (Not accurate) !</h3>
       <article class='course'>
         <div class='title'>
           <h4>Deep Learning Specialization : Learn How to Become a Deep Learning expert. Master Deep Learning and Break into AI.
