@@ -1,10 +1,10 @@
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:faresmeti@gmail.com)](mailto:nimanamvar@aol.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nimanamvar/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:)](mailto:)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)]()
 
 
 I a Data Scientst 
-- 🌱 I’m currently learning some advanced machine learning; 
-- 💬 How to reach me: you can email me at nimanamvar@gmail.com;
+- 🌱 I’m currently learning; 
+- 💬 How to reach me: you can email me at ;
 - 📝[Resume]()
 
 
