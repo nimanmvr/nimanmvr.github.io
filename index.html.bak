@@ -13,6 +13,8 @@
   <link rel="stylesheet" href="style.css" s>
   <meta name="robots" content="noindex">
   <meta name="google-site-verification" content="MQ8FNq7jLVARZXhcifjdK7cWkhsqwZqE13OSfr_p4UY" />
+  <meta name="msvalidate.01" content="C94DEA1419BCCE3878CE80AF53F3743C" />
+  
 </head>
 
 <body>
@@ -20,15 +22,15 @@
     <div>
       <img src="./img/avatar.png" />
     </div>
-    <h1 style="color:rgb(55, 145, 230)">Personal Page</h1>
+    <h1 style="color:rgb(29, 134, 233)">Personal Page</h1>
     <section>
       </p>This is my personal page,</p>
-      </p>In my spare time, I'm improving my English & French</p>
+      </p>In my spare time, I'm improving my Progamming Skills and knowledge and some times I try to learn French</p>
       </p>
       </p>
-      </p>The provided information is inaccurate and out-of-date because my website is currently under construction and not all information is present.(<b style=" color: rgb(84, 92, 202);">Last update 06 August 2021</b>)</p>
-      </p>Please send me an email or get in touch with me in any other manner if you want to see the most recent version of my CV. <b>"<a href = "mailto: ">My personal e-mail</a>"</br>
-      </b> Thank you </p>
+      </p>The provided information is inaccurate and out-of-date because my website is currently under construction and not all information is present.(<b style=" color: rgb(84, 92, 202);">Last update: 2021</b>)</p>
+      </p>Please reach out to me if you want the most recent version of my CV. <b>"<a href = "mailto: ">My personal e-mail</a>"</br>
+      </b>Thank you </p>
       <br>
       <br>
       <a href="https://www.facebook.com//" target="_blank">
@@ -96,6 +98,12 @@
         <div class='column'>
           <h4>Professional/Expert knowledge and experiment</h4>
           <ul>
+            <li>Data Science</li>
+            <li>Data Analytics</li>
+            <li>Machine Learning</li>
+            <li>Computer Vision</li>
+            <li>Generative Models</li>
+            <li>Clustering Algorithms</li>
             <li>Object-oriented programming</li>
             <li>Software engineering methodologies</li>
             <li>HTML5</li>
@@ -147,7 +155,15 @@
       <h3>Education</h3>
       <article>
         <div class='school'>
-          <span></span> <strong>Computer Science and Engineering</strong>
+          <span></span> <strong>Computer Science, Data Science, Computer Vision</strong>
+        </div>
+        <div class="descrition">
+          Master of Science 
+        </div>
+      </article>
+      <article>
+        <div class='school'>
+          <span></span> <strong>Computer Engineering</strong>
         </div>
         <div class="descrition">
           Bachelor Degree of Computer Engineering

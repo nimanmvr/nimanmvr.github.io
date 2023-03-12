@@ -2,9 +2,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)]()
 
 
-I a Data Scientst 
+
 - 🌱 I’m currently learning; 
-- 💬 How to reach me: you can email me at ;
+- 💬 How to reach me: 
 - 📝[Resume]()
 
 
